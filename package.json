@@ -1,0 +1,8 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "main": "app.ts",
+  "devDependencies": {
+    "typescript": "^3.1.6"
+  }
+}
